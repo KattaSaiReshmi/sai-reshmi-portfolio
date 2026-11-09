@@ -1,0 +1,132 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  html {
+    scroll-behavior: smooth;
+    color-scheme: dark;
+    background-color: #030712;
+  }
+  body {
+    background-color: #030712;
+    color: #f1f5f9;
+    overflow-x: hidden;
+    font-family: 'Inter', sans-serif;
+  }
+}
+
+/* Custom Cyber Backgrounds */
+.cyber-grid {
+  background-size: 40px 40px;
+  background-image: 
+    linear-gradient(to right, rgba(0, 240, 255, 0.04) 1px, transparent 1px),
+    linear-gradient(to bottom, rgba(0, 240, 255, 0.04) 1px, transparent 1px);
+}
+
+.cyber-grid-dense {
+  background-size: 20px 20px;
+  background-image: 
+    linear-gradient(to right, rgba(168, 85, 247, 0.05) 1px, transparent 1px),
+    linear-gradient(to bottom, rgba(168, 85, 247, 0.05) 1px, transparent 1px);
+}
+
+.cyber-radial-overlay {
+  background: radial-gradient(circle at 50% 0%, rgba(0, 240, 255, 0.08) 0%, rgba(168, 85, 247, 0.04) 35%, rgba(3, 7, 18, 0) 75%);
+}
+
+.cyber-vignette {
+  background: radial-gradient(ellipse at center, transparent 30%, #030712 90%);
+}
+
+/* Glassmorphism Styles */
+.cyber-glass {
+  background: rgba(11, 17, 32, 0.72);
+  backdrop-filter: blur(16px);
+  -webkit-backdrop-filter: blur(16px);
+  border: 1px solid rgba(255, 255, 255, 0.08);
+}
+
+.cyber-glass-hover {
+  transition: all 0.3s cubic-bezier(0.16, 1, 0.3, 1);
+}
+.cyber-glass-hover:hover {
+  border-color: rgba(0, 240, 255, 0.35);
+  box-shadow: 0 0 30px -5px rgba(0, 240, 255, 0.2);
+  transform: translateY(-2px);
+}
+
+.cyber-glass-violet-hover:hover {
+  border-color: rgba(168, 85, 247, 0.45);
+  box-shadow: 0 0 30px -5px rgba(168, 85, 247, 0.25);
+  transform: translateY(-2px);
+}
+
+/* Custom Scrollbar */
+::-webkit-scrollbar {
+  width: 7px;
+  height: 7px;
+}
+
+::-webkit-scrollbar-track {
+  background: #050814;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #1e293b;
+  border-radius: 9999px;
+  border: 1px solid rgba(0, 240, 255, 0.2);
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #0ea5e9;
+  box-shadow: 0 0 10px rgba(14, 165, 233, 0.6);
+}
+
+/* Glowing text gradients */
+.text-gradient-cyan {
+  background: linear-gradient(135deg, #ffffff 0%, #38bdf8 50%, #00f0ff 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.text-gradient-violet {
+  background: linear-gradient(135deg, #ffffff 0%, #c084fc 50%, #a855f7 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.text-gradient-cyber {
+  background: linear-gradient(90deg, #00f0ff 0%, #818cf8 50%, #c084fc 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+/* Scanline subtle overlay */
+.scanline-effect {
+  position: relative;
+  overflow: hidden;
+}
+.scanline-effect::after {
+  content: " ";
+  display: block;
+  position: absolute;
+  top: 0; left: 0; bottom: 0; right: 0;
+  background: linear-gradient(rgba(18, 16, 16, 0) 50%, rgba(0, 0, 0, 0.25) 50%), linear-gradient(90deg, rgba(255, 0, 0, 0.03), rgba(0, 255, 0, 0.01), rgba(0, 0, 255, 0.03));
+  z-index: 20;
+  background-size: 100% 3px, 6px 100%;
+  pointer-events: none;
+  opacity: 0.4;
+}
+
+/* Glow lines */
+.border-gradient-cyber {
+  border-image: linear-gradient(to right, #00f0ff, #a855f7) 1;
+}
+
+/* Hide cursor on touch devices */
+@media (hover: none) and (pointer: coarse) {
+  .custom-cursor-element {
+    display: none !important;
+  }
+}

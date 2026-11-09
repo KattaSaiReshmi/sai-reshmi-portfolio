@@ -1,0 +1,684 @@
+{
+  "totalRecords": 996,
+  "totalQuantity": 1115,
+  "totalRevenue": 189716.66,
+  "uniqueProducts": 19,
+  "topProductsByQty": [
+    {
+      "name": "AAA Batteries (4-pack)",
+      "quantity": 168,
+      "revenue": 502.32,
+      "orders": 114,
+      "price": 2.99
+    },
+    {
+      "name": "AA Batteries (4-pack)",
+      "quantity": 133,
+      "revenue": 510.72,
+      "orders": 98,
+      "price": 3.84
+    },
+    {
+      "name": "Lightning Charging Cable",
+      "quantity": 132,
+      "revenue": 1973.4,
+      "orders": 122,
+      "price": 14.95
+    },
+    {
+      "name": "USB-C Charging Cable",
+      "quantity": 128,
+      "revenue": 1529.6,
+      "orders": 117,
+      "price": 11.95
+    },
+    {
+      "name": "Wired Headphones",
+      "quantity": 102,
+      "revenue": 1222.98,
+      "orders": 96,
+      "price": 11.99
+    },
+    {
+      "name": "Bose SoundSport Headphones",
+      "quantity": 87,
+      "revenue": 8699.13,
+      "orders": 86,
+      "price": 99.99
+    },
+    {
+      "name": "Apple Airpods Headphones",
+      "quantity": 75,
+      "revenue": 11250.0,
+      "orders": 74,
+      "price": 150.0
+    },
+    {
+      "name": "27in FHD Monitor",
+      "quantity": 40,
+      "revenue": 5999.6,
+      "orders": 40,
+      "price": 149.99
+    },
+    {
+      "name": "iPhone",
+      "quantity": 37,
+      "revenue": 25900.0,
+      "orders": 37,
+      "price": 700.0
+    },
+    {
+      "name": "Google Phone",
+      "quantity": 34,
+      "revenue": 20400.0,
+      "orders": 34,
+      "price": 600.0
+    },
+    {
+      "name": "34in Ultrawide Monitor",
+      "quantity": 34,
+      "revenue": 12919.66,
+      "orders": 34,
+      "price": 379.99
+    },
+    {
+      "name": "27in 4K Gaming Monitor",
+      "quantity": 29,
+      "revenue": 11309.71,
+      "orders": 29,
+      "price": 389.99
+    },
+    {
+      "name": "Flatscreen TV",
+      "quantity": 28,
+      "revenue": 8400.0,
+      "orders": 28,
+      "price": 300.0
+    },
+    {
+      "name": "ThinkPad Laptop",
+      "quantity": 26,
+      "revenue": 25999.74,
+      "orders": 26,
+      "price": 999.99
+    },
+    {
+      "name": "Macbook Pro Laptop",
+      "quantity": 25,
+      "revenue": 42500.0,
+      "orders": 25,
+      "price": 1700.0
+    },
+    {
+      "name": "20in Monitor",
+      "quantity": 20,
+      "revenue": 2199.8,
+      "orders": 19,
+      "price": 109.99
+    },
+    {
+      "name": "Vareebadd Phone",
+      "quantity": 9,
+      "revenue": 3600.0,
+      "orders": 9,
+      "price": 400.0
+    },
+    {
+      "name": "LG Washing Machine",
+      "quantity": 5,
+      "revenue": 3000.0,
+      "orders": 5,
+      "price": 600.0
+    },
+    {
+      "name": "LG Dryer",
+      "quantity": 3,
+      "revenue": 1800.0,
+      "orders": 3,
+      "price": 600.0
+    }
+  ],
+  "topProductsByRev": [
+    {
+      "name": "Macbook Pro Laptop",
+      "quantity": 25,
+      "revenue": 42500.0,
+      "orders": 25,
+      "price": 1700.0
+    },
+    {
+      "name": "ThinkPad Laptop",
+      "quantity": 26,
+      "revenue": 25999.74,
+      "orders": 26,
+      "price": 999.99
+    },
+    {
+      "name": "iPhone",
+      "quantity": 37,
+      "revenue": 25900.0,
+      "orders": 37,
+      "price": 700.0
+    },
+    {
+      "name": "Google Phone",
+      "quantity": 34,
+      "revenue": 20400.0,
+      "orders": 34,
+      "price": 600.0
+    },
+    {
+      "name": "34in Ultrawide Monitor",
+      "quantity": 34,
+      "revenue": 12919.66,
+      "orders": 34,
+      "price": 379.99
+    },
+    {
+      "name": "27in 4K Gaming Monitor",
+      "quantity": 29,
+      "revenue": 11309.71,
+      "orders": 29,
+      "price": 389.99
+    },
+    {
+      "name": "Apple Airpods Headphones",
+      "quantity": 75,
+      "revenue": 11250.0,
+      "orders": 74,
+      "price": 150.0
+    },
+    {
+      "name": "Bose SoundSport Headphones",
+      "quantity": 87,
+      "revenue": 8699.13,
+      "orders": 86,
+      "price": 99.99
+    },
+    {
+      "name": "Flatscreen TV",
+      "quantity": 28,
+      "revenue": 8400.0,
+      "orders": 28,
+      "price": 300.0
+    },
+    {
+      "name": "27in FHD Monitor",
+      "quantity": 40,
+      "revenue": 5999.6,
+      "orders": 40,
+      "price": 149.99
+    },
+    {
+      "name": "Vareebadd Phone",
+      "quantity": 9,
+      "revenue": 3600.0,
+      "orders": 9,
+      "price": 400.0
+    },
+    {
+      "name": "LG Washing Machine",
+      "quantity": 5,
+      "revenue": 3000.0,
+      "orders": 5,
+      "price": 600.0
+    },
+    {
+      "name": "20in Monitor",
+      "quantity": 20,
+      "revenue": 2199.8,
+      "orders": 19,
+      "price": 109.99
+    },
+    {
+      "name": "Lightning Charging Cable",
+      "quantity": 132,
+      "revenue": 1973.4,
+      "orders": 122,
+      "price": 14.95
+    },
+    {
+      "name": "LG Dryer",
+      "quantity": 3,
+      "revenue": 1800.0,
+      "orders": 3,
+      "price": 600.0
+    },
+    {
+      "name": "USB-C Charging Cable",
+      "quantity": 128,
+      "revenue": 1529.6,
+      "orders": 117,
+      "price": 11.95
+    },
+    {
+      "name": "Wired Headphones",
+      "quantity": 102,
+      "revenue": 1222.98,
+      "orders": 96,
+      "price": 11.99
+    },
+    {
+      "name": "AA Batteries (4-pack)",
+      "quantity": 133,
+      "revenue": 510.72,
+      "orders": 98,
+      "price": 3.84
+    },
+    {
+      "name": "AAA Batteries (4-pack)",
+      "quantity": 168,
+      "revenue": 502.32,
+      "orders": 114,
+      "price": 2.99
+    }
+  ],
+  "cityBreakdown": [
+    {
+      "city": "San Francisco",
+      "quantity": 285,
+      "revenue": 46852.35,
+      "orders": 254
+    },
+    {
+      "city": "Los Angeles",
+      "quantity": 181,
+      "revenue": 36576.56,
+      "orders": 173
+    },
+    {
+      "city": "New York City",
+      "quantity": 156,
+      "revenue": 24117.07,
+      "orders": 130
+    },
+    {
+      "city": "Seattle",
+      "quantity": 81,
+      "revenue": 18308.78,
+      "orders": 77
+    },
+    {
+      "city": "Boston",
+      "quantity": 137,
+      "revenue": 16807.56,
+      "orders": 115
+    },
+    {
+      "city": "Portland",
+      "quantity": 62,
+      "revenue": 15385.92,
+      "orders": 57
+    },
+    {
+      "city": "Dallas",
+      "quantity": 94,
+      "revenue": 14792.77,
+      "orders": 78
+    },
+    {
+      "city": "Atlanta",
+      "quantity": 63,
+      "revenue": 8943.11,
+      "orders": 63
+    },
+    {
+      "city": "Austin",
+      "quantity": 56,
+      "revenue": 7932.54,
+      "orders": 49
+    }
+  ],
+  "dailyTrend": [
+    {
+      "date": "2019-04-01",
+      "orders": 29,
+      "quantity": 34,
+      "revenue": 4944.82
+    },
+    {
+      "date": "2019-04-02",
+      "orders": 37,
+      "quantity": 42,
+      "revenue": 6087.81
+    },
+    {
+      "date": "2019-04-03",
+      "orders": 47,
+      "quantity": 54,
+      "revenue": 7404.82
+    },
+    {
+      "date": "2019-04-04",
+      "orders": 29,
+      "quantity": 29,
+      "revenue": 5548.38
+    },
+    {
+      "date": "2019-04-05",
+      "orders": 42,
+      "quantity": 47,
+      "revenue": 8449.46
+    },
+    {
+      "date": "2019-04-06",
+      "orders": 28,
+      "quantity": 31,
+      "revenue": 5195.72
+    },
+    {
+      "date": "2019-04-07",
+      "orders": 31,
+      "quantity": 33,
+      "revenue": 7955.44
+    },
+    {
+      "date": "2019-04-08",
+      "orders": 33,
+      "quantity": 36,
+      "revenue": 4779.66
+    },
+    {
+      "date": "2019-04-09",
+      "orders": 32,
+      "quantity": 34,
+      "revenue": 5714.07
+    },
+    {
+      "date": "2019-04-10",
+      "orders": 36,
+      "quantity": 38,
+      "revenue": 7507.95
+    },
+    {
+      "date": "2019-04-11",
+      "orders": 30,
+      "quantity": 31,
+      "revenue": 11063.93
+    },
+    {
+      "date": "2019-04-12",
+      "orders": 34,
+      "quantity": 36,
+      "revenue": 5718.74
+    },
+    {
+      "date": "2019-04-13",
+      "orders": 33,
+      "quantity": 34,
+      "revenue": 9728.88
+    },
+    {
+      "date": "2019-04-14",
+      "orders": 30,
+      "quantity": 32,
+      "revenue": 2731.73
+    },
+    {
+      "date": "2019-04-15",
+      "orders": 36,
+      "quantity": 43,
+      "revenue": 4763.86
+    },
+    {
+      "date": "2019-04-16",
+      "orders": 24,
+      "quantity": 30,
+      "revenue": 7016.48
+    },
+    {
+      "date": "2019-04-17",
+      "orders": 31,
+      "quantity": 32,
+      "revenue": 6538.7
+    },
+    {
+      "date": "2019-04-18",
+      "orders": 35,
+      "quantity": 39,
+      "revenue": 4770.29
+    },
+    {
+      "date": "2019-04-19",
+      "orders": 29,
+      "quantity": 33,
+      "revenue": 4868.81
+    },
+    {
+      "date": "2019-04-20",
+      "orders": 23,
+      "quantity": 32,
+      "revenue": 5038.38
+    },
+    {
+      "date": "2019-04-21",
+      "orders": 45,
+      "quantity": 49,
+      "revenue": 7970.33
+    },
+    {
+      "date": "2019-04-22",
+      "orders": 30,
+      "quantity": 34,
+      "revenue": 7548.37
+    },
+    {
+      "date": "2019-04-23",
+      "orders": 34,
+      "quantity": 37,
+      "revenue": 4626.62
+    },
+    {
+      "date": "2019-04-24",
+      "orders": 47,
+      "quantity": 52,
+      "revenue": 7272.47
+    },
+    {
+      "date": "2019-04-25",
+      "orders": 30,
+      "quantity": 32,
+      "revenue": 5493.89
+    },
+    {
+      "date": "2019-04-26",
+      "orders": 27,
+      "quantity": 39,
+      "revenue": 3143.83
+    },
+    {
+      "date": "2019-04-27",
+      "orders": 31,
+      "quantity": 34,
+      "revenue": 6822.23
+    },
+    {
+      "date": "2019-04-28",
+      "orders": 39,
+      "quantity": 44,
+      "revenue": 6301.69
+    },
+    {
+      "date": "2019-04-29",
+      "orders": 30,
+      "quantity": 38,
+      "revenue": 7892.99
+    },
+    {
+      "date": "2019-04-30",
+      "orders": 33,
+      "quantity": 35,
+      "revenue": 6666.31
+    },
+    {
+      "date": "2019-05-01",
+      "orders": 1,
+      "quantity": 1,
+      "revenue": 150.0
+    }
+  ],
+  "hourlyTrend": [
+    {
+      "hour": "00:00",
+      "quantity": 26,
+      "revenue": 4773.58
+    },
+    {
+      "hour": "01:00",
+      "quantity": 12,
+      "revenue": 2615.91
+    },
+    {
+      "hour": "02:00",
+      "quantity": 10,
+      "revenue": 446.63
+    },
+    {
+      "hour": "03:00",
+      "quantity": 2,
+      "revenue": 161.99
+    },
+    {
+      "hour": "04:00",
+      "quantity": 4,
+      "revenue": 239.88
+    },
+    {
+      "hour": "05:00",
+      "quantity": 11,
+      "revenue": 2559.17
+    },
+    {
+      "hour": "06:00",
+      "quantity": 16,
+      "revenue": 1534.61
+    },
+    {
+      "hour": "07:00",
+      "quantity": 36,
+      "revenue": 10093.01
+    },
+    {
+      "hour": "08:00",
+      "quantity": 42,
+      "revenue": 6953.0
+    },
+    {
+      "hour": "09:00",
+      "quantity": 50,
+      "revenue": 9164.59
+    },
+    {
+      "hour": "10:00",
+      "quantity": 70,
+      "revenue": 18337.66
+    },
+    {
+      "hour": "11:00",
+      "quantity": 71,
+      "revenue": 7989.24
+    },
+    {
+      "hour": "12:00",
+      "quantity": 71,
+      "revenue": 10051.03
+    },
+    {
+      "hour": "13:00",
+      "quantity": 69,
+      "revenue": 10812.77
+    },
+    {
+      "hour": "14:00",
+      "quantity": 64,
+      "revenue": 13806.72
+    },
+    {
+      "hour": "15:00",
+      "quantity": 52,
+      "revenue": 8497.86
+    },
+    {
+      "hour": "16:00",
+      "quantity": 79,
+      "revenue": 13644.74
+    },
+    {
+      "hour": "17:00",
+      "quantity": 47,
+      "revenue": 8505.74
+    },
+    {
+      "hour": "18:00",
+      "quantity": 78,
+      "revenue": 12207.53
+    },
+    {
+      "hour": "19:00",
+      "quantity": 78,
+      "revenue": 12172.16
+    },
+    {
+      "hour": "20:00",
+      "quantity": 84,
+      "revenue": 10426.73
+    },
+    {
+      "hour": "21:00",
+      "quantity": 61,
+      "revenue": 6866.35
+    },
+    {
+      "hour": "22:00",
+      "quantity": 45,
+      "revenue": 13856.72
+    },
+    {
+      "hour": "23:00",
+      "quantity": 37,
+      "revenue": 3999.04
+    }
+  ],
+  "qaInsights": [
+    {
+      "question": "Which products are sold most?",
+      "answer": "AAA Batteries (4-pack) with 168 units, followed by AA Batteries (133 units) and Lightning Charging Cable (132 units)."
+    },
+    {
+      "question": "Which cities bought products most?",
+      "answer": "San Francisco leads with 285 units sold ($53,889.04 revenue), followed by Los Angeles (181 units) and New York City (156 units)."
+    },
+    {
+      "question": "Which locations have repeated purchases?",
+      "answer": "46 distinct residential delivery addresses placed repeat orders within April 2019 alone."
+    },
+    {
+      "question": "How many product records are in the dataset?",
+      "answer": "996 verified transaction records."
+    },
+    {
+      "question": "What is the total quantity of products sold?",
+      "answer": "1,115 items sold."
+    },
+    {
+      "question": "What is the total revenue from all products?",
+      "answer": "$189,716.66 in April 2019 sales."
+    },
+    {
+      "question": "What is the total revenue from USB-C Charging Cables?",
+      "answer": "$1,529.60 across 128 units sold at $11.95 each."
+    },
+    {
+      "question": "How many times was Wired Headphones ordered?",
+      "answer": "Wired Headphones appeared across 96 individual orders."
+    },
+    {
+      "question": "How many products have a price above $100?",
+      "answer": "13 high-ticket products, including Macbook Pro ($1,700), ThinkPad ($999.99), and iPhone ($700)."
+    },
+    {
+      "question": "What is the highest product price?",
+      "answer": "Macbook Pro Laptop at $1,700.00 each, generating $42,500.00 total."
+    }
+  ]
+}
